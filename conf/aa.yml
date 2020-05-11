@@ -1,4 +1,4 @@
 http:
 - name: member_health
   url:  https://member.iotex.io/health
-  check_str: '{"ok":true,"ranking":true,"stakingContract":true,"iotexCore":true,"iotexMono":true,"faucetHandler":false}'
+  check_str: '{"ok":true,"ranking":true,"stakingContract":true,"iotexCore":true,"iotexMono":true'
